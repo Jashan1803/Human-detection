@@ -1,0 +1,20 @@
+# Python environment
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Uploads directory
+uploads/
+
+# YOLOv8 model file
+models/yolov8n.pt
+
+# macOS specific file
+.DS_Store
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
